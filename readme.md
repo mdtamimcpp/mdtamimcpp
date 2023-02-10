@@ -6,7 +6,7 @@
    |_|\__,_|_| |_| |_|_|_| |_| |_| /_/   \_\_| |_|_| |_| |_|\__,_|\__,_|
 <br>
 <img src="https://camo.githubusercontent.com/e57b8bef894f02142a3157ee788c4a85e560a2954ecf76f206c65cf857fba34f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616264756c6a61626261723135266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
-<img align="center" src="https://img.shields.io/github/followers/tamimcpp"> <img align="center" src="https://img.shields.io/badge/following-1-blue">
+<img align="center" src="https://img.shields.io/github/followers/mdtamimcpp"> <img align="center" src="https://img.shields.io/badge/following-1-blue">
 </pre>
 
 <h2 align="center">10+ Experience | Programmer | Electrical Engineer</h2>
@@ -33,7 +33,7 @@
 
 ---
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1e90ff?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/mdtamim59)](https://www.twitter.com/mdtamim59)  [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/mdtamimcpp)](https://www.instagram.com/mdtamimcpp)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisistamim)](https://www.linkedin.com/in/thisistamim)  [![GitHub](https://img.shields.io/badge/-GitHub-454545?style=flat&logo=GitHub&logoColor=white&link=https://www.github.com/tamimcpp)](https://www.github.com/tamimcpp)  [![HackerRank](https://img.shields.io/badge/-HackerRank-008000?style=flat&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/tamimcpp59)](https://www.hackerrank.com/tamimcpp59)  [![Sololearn](https://img.shields.io/badge/-Sololearn-a0522d?style=flat&logo=sololearn&logoColor=white&link=https://www.sololearn.com/profile/19945698)](https://www.sololearn.com/profile/19945698)
+[![Twitter](https://img.shields.io/badge/-Twitter-1e90ff?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/mdtamimcpp)](https://www.twitter.com/mdtamimcpp)  [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/mdtamimcpp)](https://www.instagram.com/mdtamimcpp)  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thisistamim)](https://www.linkedin.com/in/thisistamim)  [![GitHub](https://img.shields.io/badge/-GitHub-454545?style=flat&logo=GitHub&logoColor=white&link=https://www.github.com/mdtamimcpp)](https://www.github.com/mdtamimcpp)  [![HackerRank](https://img.shields.io/badge/-HackerRank-008000?style=flat&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/tamimcpp59)](https://www.hackerrank.com/tamimcpp59)  [![Sololearn](https://img.shields.io/badge/-Sololearn-a0522d?style=flat&logo=sololearn&logoColor=white&link=https://www.sololearn.com/profile/19945698)](https://www.sololearn.com/profile/19945698)
 
 <br>
 
